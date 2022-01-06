@@ -10,6 +10,10 @@ h1, h2, h3{
 	line-height: 25px;
 }
 
+h3{
+	font-size: 17px;
+}
+
 header h1, h2, h3{
 	color: white;
 }
